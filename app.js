@@ -2,13 +2,6 @@ console.log('naptın lan ellam');
 console.log('sanane lağğ');
 console.log('basitti');
 
-console.log("cuuuuuuuuuuuuuuuu"); 
-console.log("cuuuuuuuuuuuuuuuu"); 
-console.log("cuuuuuuuuuuuuuuuu"); 
-console.log("cuuuuuuuuuuuuuuuu"); 
-console.log("cuuuuuuuuuuuuuuuu"); 
-console.log("cuuuuuuuuuuuuuuuu"); 
-console.log("cuuuuuuuuuuuuuuuu"); 
-console.log("cuuuuuuuuuuuuuuuu"); 
-console.log("cuuuuuuuuuuuuuuuu"); 
-console.log("cuuuuuuuuuuuuuuuu"); 
+for(i = 0;i<31;i++){
+    console.log("cuuuuuuuuuuuuuuuu"); 
+}
